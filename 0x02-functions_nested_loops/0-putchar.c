@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main - print _putchar
- * is written by hecometh
- * Return: 0
+ * main - prints _putchar, followed by a new line
+ * Return: Always (0)
  */
 int main(void)
 {
@@ -16,6 +15,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
-
